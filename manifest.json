@@ -1,0 +1,13 @@
+{
+    "dependencies": {
+        "github.com/Luke-Vear/binnacle": {
+            "version": ">=0.1.0, <1.0.0"
+        },
+        "github.com/aws/aws-sdk-go": {
+            "branch": "master"
+        },
+        "k8s.io/client-go": {
+            "version": "^2.0.0"
+        }
+    }
+}
